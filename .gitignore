@@ -6,7 +6,8 @@
 *.zip
 *.tar.gz
 *.rar
-*.idea/
+*.idea/*.*
+*/target/*.*
 
 # Compiled class file
 *.class
